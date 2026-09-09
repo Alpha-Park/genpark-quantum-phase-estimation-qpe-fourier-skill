@@ -1,0 +1,14 @@
+{
+  "name": "genpark-quantum-phase-estimation-qpe-fourier-skill",
+  "version": "1.0.0",
+  "description": "Quantum Phase Estimation (QPE) and Quantum Fourier Transform (QFT) solver recovering eigenphases of unitary operators with arbitrary precision.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "qpe",
+    "quantum-phase-estimation",
+    "qft",
+    "quantum-fourier-transform",
+    "eigenphase"
+  ]
+}
